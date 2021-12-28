@@ -11,8 +11,6 @@ print(b)
 print('the largest number is', b)
 
 
-
-
 #print('the largest number is', b)
 
 
